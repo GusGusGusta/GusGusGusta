@@ -1,3 +1,6 @@
+![Header Banner](https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_.png)
+
+
 # 🌃 ¡Hola! Soy Gusgus ([Gustavo Miranda](https://www.linkedin.com/in/tu_perfil_de_linkedin)), un Desarrollador Web Nocturno con Pasión 🚀
 
 ¡Bienvenido a mi espacio digital! Soy un entusiasta de la **tecnología**, conocido como **Gusgus**, y mi momento favorito para programar es bajo el manto estrellado. Me encanta dar vida a ideas a través del código y construir experiencias web creativas y funcionales. Además, soy un orgulloso padre de dos adorables erizos 🐾🐾.
