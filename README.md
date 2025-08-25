@@ -13,9 +13,8 @@
 
 ### 👋 Un poco sobre mí
 
-¡Bienvenido a mi rincón digital! Soy **Gustavo Miranda**, conocido como **Gusgus**, un apasionado **Desarrollador Web Nocturno**. Me encanta transformar ideas en realidad a través de líneas de código bajo el manto estrellado. Siempre explorando nuevas tecnologías y desafíos para construir soluciones web creativas y funcionales.
+¡Bienvenido a mi rincón digital! Soy **Gustavo Miranda**, conocido como **GusGus**, un apasionado **Desarrollador Web Nocturno**. Me encanta transformar ideas en realidad a través de líneas de código bajo el manto estrellado. Siempre explorando nuevas tecnologías y desafíos para construir soluciones web creativas y funcionales.
 
-Soy también un orgulloso padre de dos pequeños erizos 🐾🐾.
 
 ---
 
